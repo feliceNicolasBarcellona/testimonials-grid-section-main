@@ -48,7 +48,7 @@ main {
 
 .box {
   border-radius: 0.7692rem;
-  padding: 24.0006px 33px 26px 29.0004px;
+  padding: 1.8462rem 2.5385rem 2rem 2.2308rem;
   box-shadow: 2rem 5.4615rem 5.1538rem -0.4615rem hsl(0, 0%, 81%);
 }
 
@@ -101,8 +101,8 @@ main {
 
 .avatar img {
   border-radius: 50%;
-  width: 31px;
-  height: 31px;
+  width: 2.3846rem;
+  height: 2.3846rem;
 }
 
 .avatar-text {
@@ -122,7 +122,7 @@ main {
 }
 
 .avatar-graduate {
-  font-size: 11px;
+  font-size: 0.8462rem;
 }
 
 .txt-half-white {
@@ -151,13 +151,13 @@ main {
 }
 
 .review {
-  padding: 2px 0 0 4px;
-  margin: 16px 0 0 0;
+  padding: 0.1538rem 0 0 0.3077rem;
+  margin: 1.2308rem 0 0 0;
   font-weight: 500;
 }
 
 .review-title {
-  font-size: 20.2px;
+  font-size: 1.5538rem;
   line-height: 1.2em;
 }
 
@@ -179,7 +179,7 @@ br {
 
 .review-description {
   line-height: 1.37em;
-  font-size: 13.1px;
+  font-size: 1.0077rem;
 }
 
 .m-15 {
