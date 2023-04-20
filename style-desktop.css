@@ -48,7 +48,7 @@ main {
 
 .box {
   border-radius: 0.7692rem;
-  padding: 24.0006px 32px 26px 29.0004px;
+  padding: 24.0006px 33px 26px 29.0004px;
   box-shadow: 2rem 5.4615rem 5.1538rem -0.4615rem hsl(0, 0%, 81%);
 }
 
@@ -178,7 +178,7 @@ br {
 
 .review-description {
   line-height: 1.37em;
-  font-size: 13px;
+  font-size: 13.1px;
 }
 
 .m-15 {
